@@ -1,0 +1,11 @@
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\bin\Debug\net8.0\PMT.Domain.deps.json
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\bin\Debug\net8.0\PMT.Domain.dll
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\bin\Debug\net8.0\PMT.Domain.pdb
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\PMT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\PMT.Domain.AssemblyInfoInputs.cache
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\PMT.Domain.AssemblyInfo.cs
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\PMT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\PMT.Domain.dll
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\refint\PMT.Domain.dll
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\PMT.Domain.pdb
+C:\Users\lugad\OneDrive\Documents\MY_WORK\Angular\Angular\MVC\ProjectManagementTool\PMT.Domain\obj\Debug\net8.0\ref\PMT.Domain.dll

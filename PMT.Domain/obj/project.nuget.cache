@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HOLun/sp48o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lugad\\OneDrive\\Documents\\MY_WORK\\Angular\\Angular\\MVC\\ProjectManagementTool\\PMT.Domain\\PMT.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lugad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\lugad\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\lugad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
